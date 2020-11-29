@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'icomoon';
-  src: url("../fonts/icomoon/icomoona57c.eot?srf3rx");
-  src: url("../fonts/icomoon/icomoona57c.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoona57c.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoona57c.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoona57c.svg?srf3rx#icomoon") format("svg");
+  src: url("icomoona57c.eot?srf3rx");
+  src: url("icomoon/icomoona57c.eot?srf3rx#iefix") format("embedded-opentype"), url("icomoona57c.ttf?srf3rx") format("truetype"), url("icomoona57c.woff?srf3rx") format("woff"), url("icomoona57c.svg?srf3rx#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .backgrndPic{
 
-  background-image: url("../images/engagement-1.jpg")
+  background-image: url("engagement-1.jpg")
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover .display-t,
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6, figure {
     height: 600px;
   }
   .backgrndPic{
-    background-image: url("../images/engagement-1.jpg");
+    background-image: url("engagement-1.jpg");
   }
   
 }
